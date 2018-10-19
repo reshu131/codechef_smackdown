@@ -61,6 +61,6 @@ int main(){
 			
 		}
 		}
-cout<<t<<endl;
+cout<<t*10<<endl;
 	}
 }
